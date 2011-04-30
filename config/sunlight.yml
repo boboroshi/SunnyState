@@ -1,5 +1,6 @@
 # Config File for Sunlight app and related items
 defaults: &defaults
+  site_title: "Richmond Sunlight"
   sunlight_api_url: "http://api.richmondsunlight.com/1.0/"
 
 development:
