@@ -6,6 +6,8 @@ gem 'rails', '3.0.7'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'mysql2'
+gem 'json'
+gem 'curb' # Hooks into cURL utility
 
 # Use unicorn as the web server
 # gem 'unicorn'
